@@ -5,6 +5,7 @@ public class Foo {
 	public void go(final int x) {
 		System.out.println(x);
 		System.out.println("12313");
+		System.out.println("abcabc");
 	}
 	
 
